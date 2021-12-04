@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Lesson1_5</string>
+    <string name="your_name">Имя</string>
+    <string name="greetings">Приветствие</string>
+    <string name="account">Аккаунт</string>
+    <string name="say_hello">Привет,\u0020</string>
+    <string name="your_surname">Фамилия</string>
+    <string name="your_age">Возраст</string>
+    <string name="your_email">E-Mail</string>
+    <string name="btn_return">Назад</string>
+</resources>
